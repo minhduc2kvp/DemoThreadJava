@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class ChatClient {
+public class ChatClient2 {
 
 
     public static void main(String[] args) {
